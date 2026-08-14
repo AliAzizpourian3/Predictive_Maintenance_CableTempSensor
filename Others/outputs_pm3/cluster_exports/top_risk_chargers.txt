@@ -1,0 +1,3 @@
+selected_chargers = [
+    "CZN9hh", "DViUun", "SSYNon", "57XFLG", "oD0vfx", "Q55VKf", "acno33", "yhv7cT", "zWI1qa", "YB7uye", "t8nYoj", "vrOFT6", "lPBjw9", "9NAmV1", "XVYFxe", "dNKl21", "3AHqra", "ZacobH", "HvwKnz", "XJWVVt"
+]
